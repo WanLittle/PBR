@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TEST&STUDY/ASTC/Scene_ASTC.unity
+    guid: d137742b288fca94bb1277e705856928
+  - enabled: 1
+    path: Assets/Scenes/PBR.unity
+    guid: e13456b1372e2eb41bc7efb3c5b4aae8
   m_configObjects: {}

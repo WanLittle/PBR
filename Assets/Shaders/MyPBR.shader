@@ -22,6 +22,7 @@ Tags
 }
 CGPROGRAM
 
+#pragma shader_feature A B C
 
 #pragma target 3.0
 
@@ -138,6 +139,7 @@ float3 iblSpecular = DecodeHDR(rgbm, unity_SpecCube0_HDR);
 float2 envBDRF = tex2D(_LUT, float2(lerp(0, 0.99, nv), lerp(0, 0.99, roughness))).rg; // LUT采样
 float3 F_2 = fresnelSchlickRoughness(max(nv, 0.0), F0, roughness);
 float kdLast = (1 - F_2) * (1 - _Metallic);
+
 
 
 float3 iblSpecularResult = iblSpecular * (F_2 * envBDRF.r + envBDRF.g);;
