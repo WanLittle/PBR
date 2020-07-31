@@ -1,0 +1,4 @@
+Not included unity builtin class:
+
+    Not include UnityEngine.TrailRenderer, the referred prefabs list following:
+        - Assets/Resources/Cube.prefab

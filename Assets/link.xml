@@ -1,0 +1,8 @@
+<linker>
+       <!--<assembly fullname="UnityEngine">
+       		   <type fullname="UnityEngine.LensFlare" preserve="all"/>
+       </assembly>-->
+	   <assembly fullname="UnityEngine.Timeline">
+	            <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all"/>
+	   </assembly>
+</linker>
