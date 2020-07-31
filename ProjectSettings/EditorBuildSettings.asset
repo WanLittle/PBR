@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TEST&STUDY/Animator/scene_animator.unity
+    guid: 750aef0a227d5ad4f88c77428f59d5f0
+  - enabled: 1
     path: Assets/Scenes/TEST&STUDY/ASTC/Scene_ASTC.unity
     guid: d137742b288fca94bb1277e705856928
   - enabled: 1
