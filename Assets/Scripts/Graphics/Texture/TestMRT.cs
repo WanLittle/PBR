@@ -9,7 +9,7 @@ public class TestMRT : PostEffectsBase
     {
         get
         {
-            testMRTMaterial = CheckShaderAndCreateMaterial(Shader.Find("My/TestMRT"), testMRTMaterial);
+            testMRTMaterial = CheckShaderAndCreateMaterial(Shader.Find("Little/TestMRT"), testMRTMaterial);
             return testMRTMaterial;
         }
     }

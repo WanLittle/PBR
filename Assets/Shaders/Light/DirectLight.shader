@@ -1,4 +1,4 @@
-﻿Shader "Custom/DiectLight"
+﻿Shader "Little/Light/DiectLight"
 {
 Properties
 {

@@ -1,4 +1,4 @@
-﻿Shader "My/UI/SDFText"
+﻿Shader "Little/UI/SDFText"
 {
 	Properties
 	{

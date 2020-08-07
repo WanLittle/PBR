@@ -1,4 +1,4 @@
-﻿Shader "My/Effect/partitioned_letter"
+﻿Shader "Little/Effect/partitioned_letter"
 {
 	Properties
 	{

@@ -1,4 +1,4 @@
-﻿Shader "My/RayMarching/VolumeShader"
+﻿Shader "Little/RayMarching/VolumeShader"
 {
     Properties
     {

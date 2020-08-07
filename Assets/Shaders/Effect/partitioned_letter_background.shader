@@ -1,4 +1,4 @@
-﻿Shader "My/Effect/partitioned_letter_background"
+﻿Shader "Little/Effect/partitioned_letter_background"
 {
 	Properties
 	{
